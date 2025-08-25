@@ -2,6 +2,11 @@
 
 A simple Flask web application that extracts text from PDF files using OCR (Optical Character Recognition) technology.
 
+## 🖼️ User Interface
+
+![PDF OCR App Interface](https://github.com/user-attachments/assets/a3f3fc9f-db5b-451d-9a13-5bf33e502a28)
+
+
 ## ✨ Features
 
 - Upload PDF files via web interface
